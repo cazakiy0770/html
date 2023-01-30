@@ -1,0 +1,31 @@
+ .contered {
+     position: relative;
+     text-align: center;
+     color: rgb(250, 255, 255);
+ }
+button {
+    position: absolute;
+    bottom: 8px;
+    left: 15px;
+}
+.top-left {
+position: absolute;
+bottom: 800px;
+left: 50px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-80%,-80%);
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.texte {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-10%);
+}
